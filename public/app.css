@@ -1,1 +1,1 @@
-body{background:#000}div.container{display:grid;grid-template-columns:50px 50px 50px;grid-template-rows:50px 50px 50px;grid-gap:2px;width:50%;margin:0 auto}div.container>div{border:1px solid #000;dispay:none}.white{background:#fff}.black{background:#000}
+body{background:#cac8c8}div.container{display:grid;grid-template-columns:50px 50px 50px;grid-template-rows:50px 50px 50px;grid-gap:2px;width:50%;margin:0 auto}div.container>div{border:1px solid #000;dispay:none}.white{background:#fff}.black{background:#000}
